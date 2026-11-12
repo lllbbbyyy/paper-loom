@@ -1,0 +1,25 @@
+{
+  "structural_validation": {
+    "en": {
+      "sections": 5,
+      "paragraphs": 7,
+      "sentences": 21
+    },
+    "zh-CN": {
+      "sections": 5,
+      "paragraphs": 7,
+      "sentences": 21
+    }
+  },
+  "entrypoints": {
+    "en": "Skill is valid!",
+    "zh-CN": "Skill is valid!"
+  },
+  "mutation_checks": {
+    "stale_sentence": "detected",
+    "missing_neighbor": "detected",
+    "missing_card": "detected",
+    "unmapped_prose": "detected",
+    "orphan_paragraph": "detected"
+  }
+}

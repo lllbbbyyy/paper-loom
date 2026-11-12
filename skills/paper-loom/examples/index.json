@@ -1,0 +1,187 @@
+{
+  "scope": "Fictional proposal, not an empirical paper. All prose units in each miniature manuscript are mapped.",
+  "languages": {
+    "en": {
+      "manuscript": "en/manuscript.md",
+      "sections": [
+        {
+          "id": "SEC-ABSTRACT",
+          "title": "Abstract",
+          "paragraphs": [
+            {
+              "id": "P-ABSTRACT-01",
+              "sentences": [
+                "S-ABSTRACT-001",
+                "S-ABSTRACT-002",
+                "S-ABSTRACT-003",
+                "S-ABSTRACT-004"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "SEC-INTRO",
+          "title": "Introduction",
+          "paragraphs": [
+            {
+              "id": "P-INTRO-01",
+              "sentences": [
+                "S-INTRO-001",
+                "S-INTRO-002",
+                "S-INTRO-003"
+              ]
+            },
+            {
+              "id": "P-INTRO-02",
+              "sentences": [
+                "S-INTRO-004",
+                "S-INTRO-005",
+                "S-INTRO-006"
+              ]
+            },
+            {
+              "id": "P-INTRO-03",
+              "sentences": [
+                "S-INTRO-007",
+                "S-INTRO-008",
+                "S-INTRO-009"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "SEC-METHOD",
+          "title": "Method sketch",
+          "paragraphs": [
+            {
+              "id": "P-METHOD-01",
+              "sentences": [
+                "S-METHOD-001",
+                "S-METHOD-002",
+                "S-METHOD-003"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "SEC-EXPERIMENTS",
+          "title": "Evaluation plan",
+          "paragraphs": [
+            {
+              "id": "P-EXPERIMENTS-01",
+              "sentences": [
+                "S-EXPERIMENTS-001",
+                "S-EXPERIMENTS-002",
+                "S-EXPERIMENTS-003"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "SEC-CONCLUSION",
+          "title": "Conclusion",
+          "paragraphs": [
+            {
+              "id": "P-CONCLUSION-01",
+              "sentences": [
+                "S-CONCLUSION-001",
+                "S-CONCLUSION-002"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "zh-CN": {
+      "manuscript": "zh-CN/manuscript.md",
+      "sections": [
+        {
+          "id": "SEC-ABSTRACT",
+          "title": "摘要",
+          "paragraphs": [
+            {
+              "id": "P-ABSTRACT-01",
+              "sentences": [
+                "S-ABSTRACT-001",
+                "S-ABSTRACT-002",
+                "S-ABSTRACT-003",
+                "S-ABSTRACT-004"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "SEC-INTRO",
+          "title": "引言",
+          "paragraphs": [
+            {
+              "id": "P-INTRO-01",
+              "sentences": [
+                "S-INTRO-001",
+                "S-INTRO-002",
+                "S-INTRO-003"
+              ]
+            },
+            {
+              "id": "P-INTRO-02",
+              "sentences": [
+                "S-INTRO-004",
+                "S-INTRO-005",
+                "S-INTRO-006"
+              ]
+            },
+            {
+              "id": "P-INTRO-03",
+              "sentences": [
+                "S-INTRO-007",
+                "S-INTRO-008",
+                "S-INTRO-009"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "SEC-METHOD",
+          "title": "方法概要",
+          "paragraphs": [
+            {
+              "id": "P-METHOD-01",
+              "sentences": [
+                "S-METHOD-001",
+                "S-METHOD-002",
+                "S-METHOD-003"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "SEC-EXPERIMENTS",
+          "title": "评价计划",
+          "paragraphs": [
+            {
+              "id": "P-EXPERIMENTS-01",
+              "sentences": [
+                "S-EXPERIMENTS-001",
+                "S-EXPERIMENTS-002",
+                "S-EXPERIMENTS-003"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "SEC-CONCLUSION",
+          "title": "结论",
+          "paragraphs": [
+            {
+              "id": "P-CONCLUSION-01",
+              "sentences": [
+                "S-CONCLUSION-001",
+                "S-CONCLUSION-002"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

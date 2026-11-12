@@ -1,0 +1,4 @@
+interface:
+  display_name: "Paper Loom"
+  short_description: "Trace paper logic from claims to individual sentences"
+  default_prompt: "Use $paper-loom to align my paper’s argument and annotate each section, paragraph, and sentence."
